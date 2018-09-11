@@ -3,6 +3,24 @@ CSS307 - System Programming, Fall 2018
 
 ## Weeks and Topics
 
+0. Schedule chaos
+1. Introduction
+2. Processes. Direct execution. Scheduling.
+3. Address space. Address translation.
+4. 
+5. 
+6. 
+7. Midterm?
+8. 
+9. 
+10. 
+11. 
+12. 
+13.
+14.
+
+
+
 
 ## Grading Policy
 
