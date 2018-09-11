@@ -12,4 +12,4 @@ CSS307 - System Programming, Fall 2018
 
 ## Textbook
 
-* [o s 3 e p](ostep.org)
+* [o s 3 e p](www.ostep.org)
