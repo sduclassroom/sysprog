@@ -3,21 +3,21 @@ CSS307 - System Programming, Fall 2018
 
 ## Weeks and Topics
 
-0. Schedule chaos
-1. Introduction
-2. Processes. Direct execution. Scheduling.
-3. Address space. Address translation.
-4. 
-5. 
-6. 
-7. Midterm?
-8. 
-9. 
-10. 
-11. 
-12. 
-13.
+1. 
+2. Introduction
+3. Processes. Direct execution. Scheduling.
+4. Address space. Address translation.
+5. Segmentation. Paging.
+6. TLB. Advanced Paging. Swapping.
+7. __Midterm?__ Concurrency and threads.
+8. Locks. Condition variables. Semaphores.
+9. Concurrency bugs.
+10. I/O devices.
+11. Hard disk drives. RAID.
+12. Files and Directories. Files system implementation.
+13. 
 14.
+15.
 
 
 
