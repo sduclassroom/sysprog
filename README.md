@@ -9,7 +9,7 @@ CSS307 - System Programming, Fall 2018
 4. Address space. Address translation.
 5. Segmentation. Paging.
 6. TLB. Advanced Paging. Swapping.
-7. __Midterm?__ Concurrency and threads.
+7. __Midterm Paper?__ Concurrency and threads.
 8. Locks. Condition variables. Semaphores.
 9. Concurrency bugs.
 10. I/O devices.
@@ -18,6 +18,10 @@ CSS307 - System Programming, Fall 2018
 13. 
 14.
 15.
+____
+
+16.
+17. __Final Paper__
 
 
 
