@@ -17,11 +17,8 @@ CSS307 - System Programming, Fall 2018
 12. Files and Directories. Files system implementation.
 13. 
 14.
-15.
-____
-
-16.
-17. __Final Paper__
+15. 
+16. __Final Paper__
 
 
 
