@@ -4,8 +4,9 @@ CSS307 - System Programming, Fall 2018
 ## Weeks and Topics
 
 1. 
-2. Introduction
-3. Processes. Direct execution. Scheduling.
+2. [Introduction](./week02)
+3. [Processes. Direct execution. Process API.](./week03)
+4. [CPU scheduling. Multilevel-feedback scheduling. Lottery scheduling. Multi-cpu scheduling.](./week04)
 4. Address space. Address translation.
 5. Segmentation. Paging.
 6. TLB. Advanced Paging. Swapping.
