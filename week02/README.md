@@ -5,3 +5,5 @@
    * Virtualization
    * Concurrency
    * Persistence
+
+3. [review questions](https://github.com/sduclassroom/ch02intro)
