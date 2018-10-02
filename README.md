@@ -7,7 +7,7 @@ CSS307 - System Programming, Fall 2018
 2. [Introduction](./week02), [review questions](https://github.com/sduclassroom/ch02intro)
 3. [self-study break](./week03)
 4. [Process abstraction and Process API](./week04), [splab1](https://github.com/sduclassroom/splab1)
-5. [CPU scheduling. Multilevel-feedback scheduling. Lottery scheduling. Multi-cpu scheduling.](./week05)
+5. [(Limited) Direct Execution. CPU Scheduling. ](./week05), [splab2](https://github.com/sduclassroom/splab1)
 4. Address space. Address translation.
 5. Segmentation. Paging.
 6. TLB. Advanced Paging. Swapping.
