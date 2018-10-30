@@ -5,24 +5,20 @@ CSS307 - System Programming, Fall 2018
 
 1. 
 2. [Introduction](./week02), [review questions](https://github.com/sduclassroom/ch02intro)
-3. [self-study break](./week03)
+3. self-study break
 4. [Process abstraction and Process API](./week04), [splab1](https://github.com/sduclassroom/splab1)
 5. [(Limited) Direct Execution. CPU Scheduling. MLFQ. Lottery. Multi-CPU.](./week05), [splab2](https://github.com/sduclassroom/splab2)
 6. [Address space. Address translation. Segmentation. Free Space Management](./week06)
-7. [Paging. TLB. Advanced Paging. Swapping.](./week07)
-9. __Midterm Paper?__ Concurrency and threads.
-11. Locks. Condition variables. Semaphores.
-12. Concurrency bugs.
-13. I/O devices.
-14. Hard disk drives. RAID.
-15. Files and Directories. Files system implementation.
-16. 
-17.
-18. 
-19. __Final Paper__
-
-
-
+7. self-study break
+8. Paging. TLB. Advanced Paging.
+9. Swapping.
+10. __FINAL PAPER 1__
+11. Concurrency and threads. Thread API.
+12. Locks. Locked Data Structures.
+13. Condition Variables.
+14. Semaphores.
+15. Concurrency Bugs.
+16. __FINAL PAPER 2__
 
 ## Grading Policy
 
