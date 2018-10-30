@@ -18,14 +18,14 @@ CSS307 - System Programming, Fall 2018
 7. self-study break
 8. [Paging. TLB. Advanced Paging](./week08)
     * [splab4](https://github.com/sduclassroom/splab4)
-9. Swapping.
-10. __FINAL PAPER 1__
+9. Swapping. (Bonus pop-up quiz 7 points)
+10. __LATE MIDTERM PAPER__
 11. Concurrency and threads. Thread API.
 12. Locks. Locked Data Structures.
 13. Condition Variables.
 14. Semaphores.
 15. Concurrency Bugs.
-16. __FINAL PAPER 2__
+16. __FINAL PAPER__
 
 ## Grading Policy
 
