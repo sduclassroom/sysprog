@@ -3,7 +3,7 @@ CSS307 - System Programming, Fall 2018
 
 ## Weeks and Topics
 
-1. 
+1. self-study break
 2. [Introduction](./week02), [review questions](https://github.com/sduclassroom/ch02intro)
 3. self-study break
 4. [Process abstraction and Process API](./week04), [splab1](https://github.com/sduclassroom/splab1)
