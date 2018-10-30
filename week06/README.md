@@ -10,3 +10,4 @@
 * to get rid of internal fragmentation
 ### Free Space Management
 * pain in the ass when we use segmentation or base+bound methods
+* first/best/worst fit algorithms to allocate free space
