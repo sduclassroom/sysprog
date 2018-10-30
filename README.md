@@ -10,7 +10,7 @@ CSS307 - System Programming, Fall 2018
 5. [(Limited) Direct Execution. CPU Scheduling. MLFQ. Lottery. Multi-CPU.](./week05), [splab2](https://github.com/sduclassroom/splab2)
 6. [Address space. Address translation. Segmentation. Free Space Management](./week06)
 7. self-study break
-8. Paging. TLB. Advanced Paging.
+8. [Paging. TLB. Advanced Paging.](./week08)
 9. Swapping.
 10. __FINAL PAPER 1__
 11. Concurrency and threads. Thread API.
