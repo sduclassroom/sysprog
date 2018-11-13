@@ -13,8 +13,8 @@ CSS307 - System Programming, Fall 2018
 8. [Paging. TLB. Advanced Paging](./week08)
 9. Swapping. (Bonus pop-up quiz 5 points)
 10. Concurrency and threads.
-11. Thread API.
-12. Locks. Locked Data Structures.
+11. Thread API. Locks.
+12. Locked Data Structures.
 13. Condition Variables.
 14. Semaphores.
 15. Concurrency Bugs.
