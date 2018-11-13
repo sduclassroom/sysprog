@@ -31,6 +31,7 @@ CSS307 - System Programming, Fall 2018
 * [splab2](https://github.com/sduclassroom/splab2)
 * [splab3](https://github.com/sduclassroom/splab3)
 * [splab4](https://github.com/sduclassroom/splab4)
+* [splab5](https://github.com/sduclassroom/splab5)
 
 ## Grading Policy
 
