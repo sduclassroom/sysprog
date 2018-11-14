@@ -11,16 +11,14 @@
 - each thread has its own PC/IP => its own stack
 - threads are in the same virtual address space => communication is natural
 - context switch is cheaper
-
-Pros:
-- communcation is easy
-- context swich is cheap
-- if you have more than one core, paralelization may be achieved
-- overlapping I/O with other activities (like in multiprogramming) <= this is possible if your OS "knows" about your threads.
-
-Cons:
-- synchronization problems (processes also have them)
-- ...
+- pros:
+  - communcation is easy
+  - context swich is cheap
+  - if you have more than one core, paralelization may be achieved
+  - overlapping I/O with other activities (like in multiprogramming) <= this is possible if your OS "knows" about your threads.
+- cons:
+  - synchronization problems (processes also have them)
+  - ...
 
 #### Synchronizations problems
 - critical section
