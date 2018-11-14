@@ -1,12 +1,12 @@
 ### Concurency: An Introduction
 
-Classic single-threaded process
+#### Classic single-threaded process
 - process is all about protection
 - 1 program counter/instruction pointer => one stack
 - processes communicate via IPC mechanisms like pipes etc.
 - context switch between processes is a "big deal"
 
-Multithreaded process:
+#### Multithreaded process:
 - many simultaneous threads of execution
 - each thread has its own PC/IP => its own stack
 - threads are in the same virtual address space => communication is natural
@@ -22,7 +22,7 @@ Cons:
 - synchronization problems (processes also have them)
 - ...
 
-Synchronizations problems
+#### Synchronizations problems
 - critical section
 - race condition
 - indeterminate vs deterministic programs
