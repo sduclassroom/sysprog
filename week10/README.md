@@ -26,3 +26,7 @@
 - indeterminate vs deterministic programs
 - mutual exclusion
 - atomicity
+
+#### Threads Examples
+- [thread creation in pthreads](./week10/simplethreads.c)
+- [](./week10/)
