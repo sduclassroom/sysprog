@@ -29,4 +29,11 @@
 
 #### Threads Examples
 - [thread creation in pthreads](./week10/simplethreads.c)
-- [](./week10/)
+- [race condtion](./week10/race.c)
+
+#### References
+* [ch26](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf)
+* [ch27](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-api.pdf)
+* [POSIX Threads Programming Tutorial](https://computing.llnl.gov/tutorials/pthreads/)
+* [pthread #1 in good english :)](https://www.youtube.com/watch?v=ynCc-v0K-do)
+* [pthread #2 in good english :)](https://www.youtube.com/watch?v=1ks-oMotUjc)
