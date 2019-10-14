@@ -20,13 +20,13 @@ CSS307 - System Programming, Fall 2018
 15. Concurrency Bugs.
 16. [__FINAL TEST__](./FINAL)
 
-## Homeworks
+## Homeworks [last years]
 * [ch02 review questions](https://github.com/sduclassroom/ch02intro)
 * [ch04 review questions](https://github.com/sduclassroom/ch04process)
 * [ch06 review questions](https://github.com/sduclassroom/ch06lde)
 * [ch07 review questions](https://github.com/sduclassroom/ch07sched)
 
-## Labs
+## Labs [last years]
 * [splab1](https://github.com/sduclassroom/splab1)
 * [splab2](https://github.com/sduclassroom/splab2)
 * [splab3](https://github.com/sduclassroom/splab3)
@@ -34,10 +34,6 @@ CSS307 - System Programming, Fall 2018
 * [splab5](https://github.com/sduclassroom/splab5)
 
 ## Grading Policy
-
-* **30%** = 20% labs + 10% homeworks
-* **30%** = 20% project + 10% labs
-* **40%** = final test on all chapters
 
 ## Textbook
 
